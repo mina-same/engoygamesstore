@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  height: 100%;
+  --main-learer: rgba(32, 31, 31, 1);
+  --variable-collection-burble-black-color: rgba(9, 1, 12, 1);
+  --variable-collection-dark-blue-color: rgba(36, 44, 59, 1);
+  --variable-collection-near-white-color: rgba(232, 232, 232, 1);
+  --variable-collection-primary-color: rgba(110, 0, 255, 1);
+  --variable-collection-white-color: rgba(255, 255, 255, 1);
+  --variable-collection-yello-color: rgba(255, 215, 0, 1);
+  --variable-collection-yello-color-2: rgba(192, 151, 107, 1);
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+.animate-slide {
+  animation: slide 10s linear infinite;
+}

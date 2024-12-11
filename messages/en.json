@@ -1,0 +1,158 @@
+{
+  "home": {
+    "title": "Home",
+    "newProducts": "Newest Products",
+    "lightingProducts": "Modern Lighting Products",
+    "comfortableDesign": "Comfortable design for long hours of sitting for an easy and enjoyable gaming experience",
+    "testimonials": "Testimonials",
+    "specialProducts": "Best Sellers"
+  },
+  "category": {
+    "lighting": "Modern Lighting Products"
+  },
+  "services": {
+    "serviceBoxes": "Our Services"
+  },
+  "navbar": {
+    "home": "Home",
+    "shop": "Shop",
+    "category": "Category",
+    "contact": "Contact Us",
+    "languageSwitch": "English"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "emptyMessage": "Your cart is empty.",
+    "continueShopping": "Continue Shopping",
+    "relatedProducts": "Related Products"
+  },
+  "categoriesTitle": "Categories",
+  "noCategoriesMessage": "No categories available for this type.",
+  "productPage": {
+    "similarProducts": "Similar Products",
+    "productDescription": "Product Description"
+  },
+  "productInfo": {
+    "productOverview": "Product Overview",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added to Cart"
+  },
+  "productsTaps": {
+    "productTabs": "Product Tabs",
+    "productDetails": "Product Details",
+    "productReviews": "Product Reviews",
+    "ratingsAndReviews": "Ratings and Reviews",
+    "addReview": "Add Review",
+    "basedOnReviews": "Based on {count} review(s)",
+    "excellent": "Excellent",
+    "oneReview": "1 Review"
+  },
+  "ProductListNew": "Add to Cart",
+  "servicesBoxes": {
+    "secure_payments": {
+      "title": "Secure Payments",
+      "description": "We guarantee fully secure payments"
+    },
+    "best_prices": {
+      "title": "Best Prices",
+      "description": "Best prices for card and gem top-ups"
+    },
+    "fast_shipping": {
+      "title": "Fast Shipping",
+      "description": "Receive your shipment quickly and easily"
+    }
+  },
+  "footer_title": "Subscribe to Newsletters",
+  "footer_description": "Subscribe to our newsletter and unlock a world of exclusive benefits. Be the first to know about our latest products, special promotions, and exciting updates.",
+  "subscribe_button": "Subscribe",
+  "footer_links": {
+    "home": "Home",
+    "categories": "Categories",
+    "shop": "Shop",
+    "contact_us": "Contact Us"
+  },
+  "social_media": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "vimeo": "Vimeo",
+    "youtube": "YouTube"
+  },
+  "terms_and_conditions": "Terms of Service Privacy Policy Developed By",
+  "rights_reserved": "© 2024 All rights reserved",
+  "testimonials": {
+    "heading": "What Our Clients Say",
+    "direction": "ltr",
+    "seeOn": "See on",
+    "reviews": [
+      {
+        "name": "Abdulaziz",
+        "username": "@Abdulaziz",
+        "avatar": "https://res.cloudinary.com/dtcr7vypb/image/upload/v1731974766/wmxxykxyruszliwo3ahb.png",
+        "text": "Honestly the best store to deal with and fast completion",
+        "date": "Jan 17, 2024"
+      },
+      {
+        "name": "Mary Joshiash",
+        "username": "@maryjoshiash",
+        "avatar": "https://res.cloudinary.com/dtcr7vypb/image/upload/v1731974552/lb14rrpphfznmiofxwf3.png",
+        "text": "Fast shipping in less than 24 hours",
+        "date": "Jan 18, 2024"
+      },
+      {
+        "name": "Mina",
+        "username": "@Mina",
+        "avatar": "https://res.cloudinary.com/dtcr7vypb/image/upload/v1731973803/lptyjiztr78v7dkyfgrf.webp",
+        "text": "They do the best work ever",
+        "date": "Jan 19, 2024"
+      }
+    ]
+  },
+  "ads": [
+    {
+      "icon": "FaBell",
+      "text": "Best online discounts 🌏"
+    },
+    {
+      "icon": "FaClock",
+      "text": "Fast shipping within 24 hours 🕛"
+    },
+    {
+      "icon": "FaFingerprint",
+      "text": "100% secure shipping 🔐"
+    },
+    {
+      "icon": "FaDollarSign",
+      "text": "Get the best prices now 💸"
+    },
+    {
+      "icon": "FaTags",
+      "text": "Discounts on all products 🏷️"
+    }
+  ],
+  "close": "Close",
+  "productOverview": "Product Overview",
+  "addToCart": "Add to Cart",
+  "addedToCart": "Added to Cart",
+  "productFilters": {
+    "category": "Products",
+    "rating": "Rating",
+    "priceRange": "Price Range",
+    "filters": "Filters",
+    "lowPrice": "Low Price",
+    "highPrice": "High Price",
+    "categories": "Categories"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "PrizeWheelPopup": {
+    "spin": "Spin the wheel",
+    "try": "Try",
+    "betterLuck": "Better luck next time!",
+    "close": "Close"
+  },
+  "orderSummary": "Order Summary",
+  "orderTotal": "Order total",
+  "checkout": "Checkout"
+}

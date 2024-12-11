@@ -13,7 +13,7 @@ import sliderOne from "@/public/1.jpg";
 import { ProductListThree } from "@/components/ProductListThree";
 import { getTranslations } from "next-intl/server";
 import CircularImageSlider from "@/components/CircularImageSlider";
-import PrizeWheelPopup from "@/components/PrizeWheelPopup";  // Import the client component
+import PrizeWheelClient from "@/components/PrizeWheelClient";  // Import the client component
 
 export const revalidate = 0;
 
@@ -68,10 +68,10 @@ const HomePage = async () => {
           products={SpeashialProducts}
         />
 
-        <Testimonials />
+        <Testimonials />  
 
         {/* Add the PrizeWheelPopup component here */}
-        <PrizeWheelPopup />
+        <PrizeWheelClient />
       </div>
     </Container>
   );
